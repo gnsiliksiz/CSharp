@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemoApp", "InterfacesDemoApp\InterfacesDemoApp.csproj", "{488B6CDC-B914-4146-AA17-DEAAB39CC03B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{B8437933-6D61-476E-9BAF-68D950FAC068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethod", "VirtualMethod\VirtualMethod.csproj", "{9D08BC73-2618-42BD-ADF9-BDE99098A533}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{488B6CDC-B914-4146-AA17-DEAAB39CC03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{488B6CDC-B914-4146-AA17-DEAAB39CC03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{488B6CDC-B914-4146-AA17-DEAAB39CC03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8437933-6D61-476E-9BAF-68D950FAC068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8437933-6D61-476E-9BAF-68D950FAC068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8437933-6D61-476E-9BAF-68D950FAC068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8437933-6D61-476E-9BAF-68D950FAC068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D08BC73-2618-42BD-ADF9-BDE99098A533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D08BC73-2618-42BD-ADF9-BDE99098A533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D08BC73-2618-42BD-ADF9-BDE99098A533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D08BC73-2618-42BD-ADF9-BDE99098A533}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
